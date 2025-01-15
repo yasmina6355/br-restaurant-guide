@@ -6,8 +6,6 @@ Select a restaurant:
 ---
 
 [Back to Asian](../../../asian.md)
-Start Over
 
-Back to Asian
 [Start Over](../home.md)
 
